@@ -339,7 +339,7 @@
         "extensions": [
           "jl"
         ],
-        "name": "ajpaulson/julia-syntax.vim"
+        "name": "JuliaEditorSupport/julia-vim"
       }
     }
   ],
